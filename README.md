@@ -8,7 +8,7 @@ We only take guild ids for custom prefix
 
 ## 2. Where we store information?
 
-For `custom prefix` we store it at out database
+For `custom prefix` we store it at our database
 
 ## 3. is our information safe?
 
