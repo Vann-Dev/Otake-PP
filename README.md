@@ -1,2 +1,4 @@
-# Otake-PP
-Otake Privacy Police
+# Otake-Privacy Policy
+
+##What information is stored
+
