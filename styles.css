@@ -1,0 +1,15 @@
+.Body {
+    font-family: Knewave;
+    background: aqua;
+    text-align: center;
+}
+
+header p {
+    color: green;
+    text-align: left;
+}
+
+.jwb {
+    color: limegreen;
+    text-align: left;
+}
